@@ -8,3 +8,6 @@ Solution for detecting all elements of hand drawn tic-tac-toe: lines, 9 fields +
 OpenCV 4.5.5<br/>
 CMake 3.23.0<br/>
 vcpkg
+
+## Licensing
+This project is licensed under the terms of the MIT license
